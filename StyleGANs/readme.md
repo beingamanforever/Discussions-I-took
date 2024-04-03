@@ -10,6 +10,7 @@ Associated with: VLG, IIT Roorkee
 - Brief idea of what deepfakes are and where they are used, with the help of examples.
 - Introduction to different methods for the creation of deepfakes.
 - Focus on StyleGANs for the creation
+- All in all whats different in generator’s architecture - progressive growing, noise mapping and adaptive instance normalisation.
 - Idea on how GANs work, explanation of the value function and the proof using JS divergence that p_data and p_generated are similar, using the expected value for the entire distribution.
 - Explaning what does mini_max game logic means in the context of GANs, and what is the objective of G (generator) and D (discriminator), and using the idea for the proof.
 ![image](https://github.com/beingamanforever/Discussions-I-took/assets/121532863/dffd27dd-9380-4466-98f9-6195839c7fa2)
