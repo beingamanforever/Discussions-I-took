@@ -6,7 +6,7 @@ Discussion Venue: ACM Room, SAC, IIT Roorkee
 
 Associated with: VLG, IIT Roorkee
 
-# Flow of the lecture:
+# Flow of the Lecture / Lecture Summary :
 - Brief idea of what deepfakes are and where they are used, with the help of examples.
 - Introduction to different methods for the creation of deepfakes.
 - Focus on StyleGANs for the creation
@@ -33,5 +33,14 @@ Associated with: VLG, IIT Roorkee
 - Giving an feel of why stylegans work better by mapping latent space (z) to another space (w), with the help of the above illustration from the StyleGAN paper
   ![image](https://github.com/beingamanforever/Discussions-I-took/assets/121532863/bebce439-d2b6-468b-8ef8-5c5153628a36)
 - Transfering the lecture to my partner for the detection of deepfakes part
+-------------------------------------------------------------------------------------------------------------------
+# Resources for visualisation:
+1. https://www.youtube.com/watch?v=dCKbRCUyop8&t=1359s - Editing Faces using Artificial Intelligence
+2. https://www.youtube.com/watch?v=kSLJriaOumA - A Style-Based Generator Architecture for Generative Adversarial Networks
+3. https://www.youtube.com/watch?v=Sw9r8CL98N0 - GANs
+
+# Papers used:
+1. https://arxiv.org/pdf/1909.11573.pdf - Deep Learning for Deepfakes Creation and Detection: A Survey
+2. https://arxiv.org/abs/1812.04948 - A Style-Based Generator Architecture for Generative Adversarial Networks, NVIDIA
 
 
