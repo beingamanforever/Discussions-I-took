@@ -1,0 +1,16 @@
+After playing around with mutex, lock_guards etc & applying it on problems, you will get hands on idea of how multithreading works in actual instead of just memorizing the theory part from OS.
+You will be now more comfortable around problems involving code around this topic, which people aren't usually
+
+There are a few things which you can learn on your own pace which would be solidfy your grip around this topic more:
+> learn about different types of locks involved
+> semaphores vs mutex
+> learn about condition variables (https://friendlyuser.github.io/posts/tech/2023/C++_Multithreading_and_Concurrency_A_Comprehensive_Guide/)
+> I used lambda expressions, auto keyword in my code: search about them and read; why do we use auto and not std::function for defining lambdas, why are they slow, why can they give MLE etc
+> auto, const keywords can induce pruning (more on this some other day)
+> There was a past project by ACM on multithreaded server, you can pick it up, understand the code base and improve it further (https://github.com/acmiitr/Multithreaded-Server)
+> ...
+
+Bottomline, would be to curious, question stuff (and also search about them and find their answers)
+Hopefully it was fun!
+
+~ Aman, 3y, 22112013

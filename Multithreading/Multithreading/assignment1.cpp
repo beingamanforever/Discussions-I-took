@@ -1,0 +1,2 @@
+// Given a matrix of size n x m, write a program to find the sum of all elements in the matrix using multithreading.
+// compare the time taken by multithreading brute force and strassen's matrix multiplication approach
