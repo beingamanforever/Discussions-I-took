@@ -3,6 +3,7 @@ This repository hosts all the dissusions I took on Machine Learning/ Deep Learni
 
 1. [StyleGANs - Generation and Detection of Deepfakes ](https://github.com/beingamanforever/Discussions-I-took/tree/main/StyleGANs)- 3rd April, 2024
 2. [AI-Text-Detection](https://github.com/beingamanforever/Discussions-I-took/tree/main/AI%20Text%20Detection) - 6th April, 2024
+3. [Multithreading](https://github.com/beingamanforever/Discussions-I-took/tree/main/Multithreading) - 9th April, 2025
 
 
 # RANDOMISED SUMMARIES
